@@ -1,1 +1,1 @@
-admin_password = "Cl@im1tpassw0rd!"
+admin_password = "EnteryourPasswordHere!"
